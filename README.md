@@ -1,5 +1,5 @@
    ###    𝙷𝚎𝚕𝚕𝚘 𝚎𝚟𝚎𝚛𝚢𝚘𝚗𝚎, 𝙸'𝚖 𝙿𝚛𝚒𝚜𝚌𝚒𝚕𝚊! Welcome to my Github 😊😊😊
-   <h2>🌱 Estou aprendendo JAVA e tenho estudado um pouco de HTML e Quality Assurance. </h2> 
+   <h2>🌱 Estou aprendendo JAVA e a desenvolver joguinhos. </h2> 
 
   <br> 
   
