@@ -28,7 +28,6 @@
  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
  <img src="https://img.shields.io/badge/-GitHub-orange?style=flat-square&logo=github"/>
  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
- <img src="https://img.shields.io/badge/-QA-blue?style=flat-square&logo=QA"/>
 </p><br>
       
 <div align="center" style="display: flex; flex-direction: row;">     
